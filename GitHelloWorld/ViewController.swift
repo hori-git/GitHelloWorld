@@ -15,8 +15,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    //
     func test(){
         print("テスト")
+    }
+    
+    func test2(){
+        print("テスト２")
     }
 
 
